@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-icon {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.bg-container {
+    background-color: #ffffff;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.navbar-heading {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.main-heading {
+    font-family: "roboto";
+    font-size: 50px;
+    font-weight: 600;
+    font-style: normal;
+    margin-left: 10px
+}
+
+.style-heading {
+    font-family: "Comic Sans MS";
+    font-size: 40px;
+    font-weight: 600;
+    font-style: normal;
+    color: #fdee00;
+    margin-left: 0px;
+}
+
+.image-container {
+    background-image: url("https://www.caterease.com/wp-content/uploads/2019/01/Final-Background-For-Login.png");
+    background-size: cover;
+    height: 30vh;
+
+}
+
+.restraunt-heading {
+    font-family: "cusrive";
+    font-size: 80px;
+    font-weight: 600;
+    font-style: normal;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.small-restraunt-heading {
+    font-family: "cusrive";
+    font-size: 30px;
+    font-weight: 600;
+    font-style: normal;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+.about-image {
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+
+    margin-top: 90px;
+}
+
+.choose-heading {
+    font-family: "Comic Sans MS";
+    font-size: 40px;
+    font-weight: 600;
+    font-style: normal;
+    margin-top: 50px;
+
+}
+
+.heading {
+    font-family: "Comic Sans MS";
+    font-size: 28px;
+    font-weight: 600;
+    font-style: normal;
+    color: #6e7f80;
+
+}
+
+.para {
+    font-family: "roboto";
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+
+
+}
+
+.menu-container {
+    height: 650px;
+    width: 250px;
+    background-color: #ffffff;
+
+}
+
+.menu-image {
+    height: 200px;
+    width: 250px;
+    background-size: cover;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.menu-item-name {
+    color: #ffe135;
+    font-family: "canvas";
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.menu-description {
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.menu-rate {
+    font-family: "roboto";
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+#menuContainer {
+    margin-top: 10px;
+}
+
+.contact-heading {
+    font-family: "roboto";
+    font-size: 40px;
+    font-weight: 600;
+    font-style: normal;
+    color: #6e7f80;
+}
+
+.para-timings {
+    color: #ed9121;
+    font-family: 'roboto';
+    font-size: 40px;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.times {
+    color: black;
+    font-family: 'roboto';
+    font-size: 30px;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.addres {
+    font-family: 'roboto';
+    font-size: 50px;
+    font-weight: 500;
+    color: #9bddff;
+
+}
+
+.adress-description {
+    font-family: 'roboto';
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.follow-heading {
+    font-family: "roboto";
+    font-size: 40px;
+    font-weight: 600;
+    font-style: normal;
+    color: #6e7f80;
+
+}
+
+.follow-icon {
+    font-size: 60px;
+    margin-left: 20px;
+}
+
+.follow-section {
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+.contact-section {
+    margin-top: 150px;
+    margin-bottom: 200px;
+
+}
+
+.menu-section {
+    margin-top: 150px;
+    margin-bottom: 200px;
+
+}

@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image-card {
+    width: 30px;
+    height: 30px;
+
+}
+
+.small-heading {
+    color: #ffffff;
+    font-size: 10px;
+    padding-left: 80px;
+    margin-top: 60px;
+    font-family: "roboto";
+}
+
+.icon-style {
+    font-size: 35px;
+    font-family: "roboto";
+    font-weight: 200;
+
+}
+
+.card-container {
+    background-color: black;
+    height: 30vh;
+}
+
+.medium-image {
+    height: 200px;
+    width: 200px;
+    border-radius: 120px;
+    margin-left: 50px;
+    margin-top: 50px;
+
+
+}
+
+.small-image {
+    height: 130px;
+    width: 130px;
+    border-radius: 120px;
+    margin-left: 0px;
+    margin-top: 50px;
+
+
+}
+
+.main-small-heading {
+    color: #ffffff;
+    font-size: 30px;
+    margin-left: 130px;
+    margin-top: 100px;
+    font-family: "roboto";
+
+}
+
+.main-heading {
+    color: #ffffff;
+    font-size: 30px;
+    padding-top: 80px;
+    margin-left: 50px;
+    font-family: "roboto";
+}
+
+.small-stying-name {
+    font-size: 10px;
+    color: #00FFFF;
+    padding-bottom: 20px;
+    font-weight: 600;
+
+}
+
+.styling-name {
+    font-size: 40px;
+    color: #00FFFF;
+    padding-bottom: 20px;
+    font-weight: 600;
+
+}
+
+.about-heading {
+    color: #FFD700;
+    font-size: 45px;
+    font-family: "roboto";
+    font-weight: 600;
+}
+
+.about-para {
+    font-size: 28px;
+    font-family: "roboto";
+}
+
+.ordered-lower-roman-list {
+    list-style-type: Decimal;
+    font-size: 23px;
+    margin-left: 100px;
+    font-family: "roboto";
+    font-weight: 200;
+}
+
+.skill-heading {
+    color: #87CEEB;
+    font-size: 45px;
+}
+
+.heading {
+    color: #00FA9A;
+    font-size: 45px;
+    font-family: "roboto";
+    font-weight: 600;
+}
+
+.btech-heading {
+
+    font-size: 26px;
+    font-family: "roboto";
+    font-weight: 400;
+}
+
+.paragraph {
+    font-size: 23px;
+    font-family: "roboto";
+
+}
+
+.project-heading {
+    font-size: 45px;
+    font-family: "roboto";
+    font-weight: 600;
+}
+
+.project-span {
+    color: #DC143C;
+}
+
+.contact-heading {
+    font-size: 45px;
+    font-family: "roboto";
+    font-weight: 600;
+    color: #FF00FF;
+}
+
+.cell-heading {
+    font-size: 30px;
+    font-family: "roboto";
+    font-weight: 600;
+}
+
+.gmail-heading {
+    font-size: 30px;
+    font-family: "roboto";
+    font-weight: 600;
+    color: #FFA500;
+
+}
+
+.margin-section {
+    margin-top: 150px;
+
+}
+
+.bottom-section {
+    margin-top: 150px;
+    margin-bottom: 100px;
+
+}
+
+.margin-section {
+    margin-top: 80px;
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>c:\Users\Devadas  patel\OneDrive\Desktop\oasis_tasks\temperatur converter\app.js
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>  
+    <link rel="stylesheet"  href="style.css">
+</head>
+<body>
+    <script>src="app.js"</script>
+    <div class="container">
+        <h1 class="main-heading">
+            Temperature Converter
+        </h1>
+        <form id='myForm'>
+            <div class="mt-3">
+                <label class="label" for="fromTemperature">From:</label>
+                <select class="form-control select" id="fromTemperature">
+                    <option value="celsius" selected>celsius</option>
+                    <option value="fahrenheit"> fahrenheit</option>
+                    <option value="Kelvin"> Kelvin</option>
+                </select>
+            </div>
+            <hr class="line-horizontal" />
+            <div class="mt-3">
+                <label class="label" for="toTemperature">To:</label>
+                <select class="form-control  select" id="toTemperature">
+                    <option value="celsius">celsius</option>
+                    <option value="Fahrenheit">Fahrenheit </option>
+                    <option value="Kelvin"> Kelvin</option>
+                </select>
+            </div>
+            <hr class="line-horizontal" />
+            <div class="mt-3">
+                <label class="label">
+                    Temperature:
+                </label>
+                <br />
+                <input type="text" class="form-control input" id="inputElement" placeholder="Enter the Temperature" />
+                <p class="Error-msg" id='ErrorMsg'></p>
+            </div>
+            <div class="mt-3">
+                <label class="label">
+                    Result:
+                </label>
+                <input type="text" class="form-control input" placeholder="Your's Output" id="reusltTemp" />
+            </div>
+            <div class="mt-5 ">
+                <button class="btn btn-primary button" id="cnvrtBtn" onclick='convertButton()'>Convert</button>
+                <button class="btn btn-secondary ml-3 button" id="ResetBtn">Reset</button>
+            </div>
+        </form>
+    </div>
+    <script src="app.js"></script>
+    
+</body>
+</html>

@@ -1,0 +1,43 @@
+.container {
+    background-color: #ffffff;
+    height: 100vh;
+    background-size: cover;
+}
+
+.line-horizontal {
+    border-width: 1px;
+    border-color: black;
+    border-style: dashed;
+}
+
+.main-heading {
+    font-family: "roboto";
+    font-size: 50px;
+
+}
+
+.ErrorMsg {
+    font-size: 20px;
+}
+
+.input {
+    font-size: 25px;
+    font-family: "roboto";
+}
+
+.label {
+    font-size: 40px;
+}
+
+.Error-msg {
+    color: red;
+}
+
+.select {
+    font-size: 30px;
+    border-width: 0px;
+}
+
+.button {
+    font-size: 20px;
+}
